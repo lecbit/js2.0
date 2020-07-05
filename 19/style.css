@@ -1,0 +1,14 @@
+.block-one, .block-two, .block-three
+{
+  display: inline-block;
+  border: 3px solid black;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  
+}
+
+p
+{
+  text-align: center;
+}
