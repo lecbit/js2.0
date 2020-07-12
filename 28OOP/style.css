@@ -1,0 +1,17 @@
+p
+{  
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+.orange
+{       
+    padding: 5px;
+    background-color: orange;   
+}
+
+.red
+{
+    padding: 5px;
+    background-color: red;    
+}
